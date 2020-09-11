@@ -7,3 +7,5 @@ Testing mergify
 Strict merge
 
 more strict testing
+
+kodiak
